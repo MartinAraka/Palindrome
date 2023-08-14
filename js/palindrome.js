@@ -10,4 +10,4 @@ function palindrome(str) {
     
 }
 
-console.log(palindrome("racecars767"));
+console.log(palindrome("eye767"));
